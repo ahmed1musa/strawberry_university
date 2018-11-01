@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <title>Strawberry University</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-   <!--  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://bootswatch.com/4.1.3/journal/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://bootswatch.com/4.1.3/journal/bootstrap.min.css">
     <style>
 footer {
    position: fixed;
@@ -33,7 +33,7 @@ nav div ul li{
 
 <body>
 
-    <?php include 'navigation.php'; ?>
+<?php include 'navigation.php'; ?>
     
 <div class="jumbotron">
 <h1 class="shadow">
