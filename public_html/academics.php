@@ -32,21 +32,23 @@ nav div ul li{
 </head>
 
 <body>
-    <?php include 'navigation.php'; ?>
+
+<?php include 'navigation.php'; ?>
+    
 <div class="jumbotron">
 <h1 class="shadow">
 <center>
-    About Strawberry University
+    Strawberry University's Academics
 </center>
 </h1>
-<img alt='School Location Picture' src='img/aboutpic.png' class="center">
+<img alt='Book and Pencil' src='img/academics.png' class="center">
 <p id="mainparagraph">
   <center>
   <font size="+1">
-    Strawberry University was founded in 1906 in Peach Jam, Colorado. The founder, Robert Rose, built every building on this great university with his bare hands, eating only strawberries on his break for lunch. His great grandchildren, Ahmed Musa &amp; Joey Gale, had the same passion for higher education and have continued to build this prestigious school with more buildings and also things such as expand it's online presence, and thanks to them you are on this fantastic website.
+    Strawberry University is very proud of how well we excel at our academic programs. We have every major and minor available, for both a bachelor and masters degree. Strawberry University has a 97% job or graduate school placement rating within the first 3 months of graduation. We have a ratio of 5:1 of students to professors to make sure every student is well prepared for life after college.
   </font>
   </center>
-</p> 
+</p>
 </div>
 
 <?php include 'footer.php'; ?>
