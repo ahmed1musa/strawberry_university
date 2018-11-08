@@ -25,20 +25,12 @@ nav div ul li{
 <body>
   <?php include 'navigation.php'; ?>
 <div class="jumbotron">
-<h1 class="shadow">
-<center>
     Strawberry University's Athletics
-</center>
-</h1>
 <div class="container">
   <div class="row">
     <div class="col-sm">
         <p id="mainparagraph">
-          <center>
-          <font size="+1">
             Strawberry University prides itself in how well their athletic programs are. With top-notch athletic facilities and only the greatest staff members to                help students not only reach their top athletic potential, but academic as well. Last year we had three different athletic programs get the highest                   achievement plausible by the NCAA, a national championship. This year we are ranked #1 in pre-season polls for 4 athletic programs.
-          </font>
-          </center>
         </p> 
     </div>
     <div class="col-sm">

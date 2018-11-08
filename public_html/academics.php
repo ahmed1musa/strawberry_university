@@ -37,17 +37,11 @@ nav div ul li{
     
 <div class="jumbotron">
 <h1 class="shadow">
-<center>
     Strawberry University's Academics
-</center>
 </h1>
 <img alt='Book and Pencil' src='img/academics.png' class="center">
 <p id="mainparagraph">
-  <center>
-  <font size="+1">
     Strawberry University is very proud of how well we excel at our academic programs. We have every major and minor available, for both a bachelor and masters degree. Strawberry University has a 97% job or graduate school placement rating within the first 3 months of graduation. We have a ratio of 5:1 of students to professors to make sure every student is well prepared for life after college.
-  </font>
-  </center>
 </p>
 </div>
 

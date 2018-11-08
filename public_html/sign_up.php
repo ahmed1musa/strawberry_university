@@ -27,14 +27,10 @@ nav div ul li{
 
 <div class="jumbotron">
 <h1 class="shadow">
-<center>
     Visit Sign-Up
-</center>
 </h1>
 <div class="alert alert-success" role="alert">
-<center>
   <strong>We hope to see you soon!</strong>
-</center>
 </div>
 <form>
   <div class="form-row">
@@ -44,7 +40,7 @@ nav div ul li{
     </div>
     <div class="form-group col-md-6">
       <label for="inputPhoneNumber">Phone Number</label>
-      <input type="phonenumber" class="form-control" id="inputPhoneNumber" placeholder="012-345-6789">
+      <input type="text" class="form-control" id="inputPhoneNumber" placeholder="012-345-6789">
     </div>
   </div>
   <div class="form-group">
